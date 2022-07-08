@@ -1,0 +1,9 @@
+{
+    "ING-PGH1-PIDP1":
+        {
+            "server": "ING-PGH1-PIDP1",
+            "database": "AF_PublishDB",
+            "username": "AFDataWriter",
+            "password": "<password>"
+        }
+}
